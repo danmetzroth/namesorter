@@ -7,7 +7,6 @@ namespace NameSorter
 {
     public class NameSorter
     {
-        private readonly string inputFilePath;
         private string[] args;
         
         public NameSorter(string[] args)
